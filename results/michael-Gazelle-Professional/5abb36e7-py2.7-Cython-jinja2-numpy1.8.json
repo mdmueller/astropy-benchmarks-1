@@ -1,0 +1,35 @@
+{
+    "commit_hash": "5abb36e742ecfcf31ba9e7c9abed6bc970ed5de8", 
+    "date": 1432661629000, 
+    "params": {
+        "Cython": null, 
+        "arch": "x86_64", 
+        "cpu": "Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz (8 cores)", 
+        "jinja2": null, 
+        "machine": "michael-Gazelle-Professional", 
+        "numpy": "1.8", 
+        "os": "Linux 3.13.0-30-generic", 
+        "python": "2.7", 
+        "ram": "8.2G"
+    }, 
+    "profiles": {}, 
+    "python": "2.7", 
+    "requirements": {
+        "Cython": null, 
+        "jinja2": null, 
+        "numpy": "1.8"
+    }, 
+    "results": {
+        "table.time_table.TableSuite.time_aggregate": null, 
+        "table.time_table.TableSuite.time_group_float": 0.009614379405975341, 
+        "table.time_table.TableSuite.time_group_int": 0.009492058753967286, 
+        "table.time_table.TableSuite.time_group_str": 0.007801640033721924, 
+        "table.time_table.TableSuite.time_mask_float": 0.0005018491744995117, 
+        "table.time_table.TableSuite.time_mask_int": 0.0004995410442352295, 
+        "table.time_table.TableSuite.time_mask_str": 0.0005742290019989014, 
+        "table.time_table.TableSuite.time_slice_float": 0.00019477009773254393, 
+        "table.time_table.TableSuite.time_slice_int": 0.0001878603935241699, 
+        "table.time_table.TableSuite.time_slice_str": 0.00018709208965301513
+    }, 
+    "version": 1
+}
